@@ -1,2 +1,2 @@
 # LocaWeb
-Aplicação para gerenciamento de alocação de filmes (PHP).
+Aplicação para gerenciamento de alocação de filmes.
